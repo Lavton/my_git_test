@@ -1,6 +1,6 @@
 *
 !.gitignore
 !README.txt
-!russian-simple.tex
+!*.tex
 !subfolder/in_s_file.tex
 # he
