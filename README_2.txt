@@ -1,4 +1,4 @@
-We test readme 4 - the conflict version
+WWWe test readme 4 - the conflict version
 
 простого документа на русском языке, с кириллическими 
 шрифтами и математическими формулами. 
